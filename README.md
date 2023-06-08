@@ -9,11 +9,13 @@ This repository contains code, data, and a report detailing a sentiment analysis
 
 - **`D213 - Sentiment Analysis Using Neural Networks.pdf`**: This comprehensive report provides an in-depth explanation of the project, including an overview of the methodology, data preprocessing, model architecture, training process, and model evaluation.
 
-- **`lstm_model.h5`**: This is the trained LSTM model saved in HDF5 file format. It's useful for those who wish to use the model for prediction without going through the training process.
+*Due to the large size of NLP models and the amount of data required to train them, the files below are stored on Google Drive. Follow the title link to access each file.*
 
-- **`clean_reviews.json`**: This is a JSON file containing preprocessed review data ready for model training.
+- **<a href='https://drive.google.com/file/d/102xrsqe7fofDY6Otjryq-S3VzDUtaOaZ/view?usp=sharing'>`lstm_model.h5`</a>**: This is the trained LSTM model saved in HDF5 file format. It's useful for those who wish to use the model for prediction without going through the training process.
 
-- **`review-West_Virginia_10.json`**: A sample JSON file containing 10 reviews from West Virginia used for model testing.
+- **<a href='https://drive.google.com/file/d/16rDRvKo8ZsN9sxT5dhNDQcAL1nWiwUYX/view?usp=sharing'>`clean_reviews.json`</a>**: This is a JSON file containing preprocessed review data ready for model training.
+
+- **<a href='https://drive.google.com/file/d/1w1VFDF7JvLg83RcPxE9Wj9NbKYPdKebP/view?usp=sharing'>`review-West_Virginia_10.json`</a>**: A sample JSON file containing 10 reviews from West Virginia used for model testing.
 
 # Getting Started
 1. Clone this repository.
